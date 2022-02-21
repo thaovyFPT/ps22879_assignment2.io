@@ -1,0 +1,315 @@
+.boxHeader {
+   
+    
+    clear: left;
+    height: 595px;
+    float: left;
+     
+    text-align: center;
+    width: 100%;
+ }
+ .boxHeader img{
+    width: 100%;
+    clear: left;
+    height: 595px;
+ }
+ 
+ .menu{
+   
+    padding: 0.2em;
+    clear: left;
+    width: 100%;
+    background-color: rgb(104, 92, 92);
+ 
+ }
+ 
+ .banner1{
+    float:right;
+    height: 1000px;
+    width: 25%;
+    background-color: rgb(226, 202, 172);
+ }
+ .menuDung ul li{
+    padding-top: 50px;
+ }
+
+ .center{
+       width: 75%;
+       margin: 0px auto;
+       
+       float: left;
+       height: 1000px;
+       
+       background-color: rgb(226, 202, 172);
+   }
+   .boxleft{
+      text-align: center;
+   }
+   
+ .sp1{
+ 
+ float: left;
+ text-align: center;
+ margin-top: 50px;
+margin-left: 130px;
+ width: 250px;
+ height: 250px;
+ }
+ .sp1 img{
+    width: 300px;
+    height: 210px;
+    float: left;
+    margin-top: auto;
+    margin-left: 0px;
+    margin-bottom: 20px;
+    max-width: 250px;
+    max-height: 75%;
+ }
+ .sp2{
+ float: left;
+ text-align: center;
+ margin-top: 50px;
+ width: 250px;
+ height: 250px;
+ margin-left: 50px;
+ }
+ .sp2 img{
+   width: 300px;
+   height: 210px;
+   float: left;
+   margin-top: auto;
+   margin-left: 0px;
+   margin-bottom: 20px;
+   max-width: 250px;
+   max-height: 75%;
+}
+ .sp3{
+  
+ float: left;
+ text-align: center;
+ margin-top: 50px;
+ width: 250px;
+ height: 250px;
+ margin-left: 50px; 
+ margin-right: 130px;
+ }
+ .sp3 img{
+   width: 300px;
+   height: 210px;
+   float: left;
+   margin-top: auto;
+   margin-left: 0px;
+   margin-bottom: 20px;
+   max-width: 250px;
+   max-height: 76%;
+ }
+ .sp4{
+ 
+ float: left;
+text-align: center;
+ margin-top: 70px;
+ width: 250px;
+ height: 250px;
+ margin-left: 130px;
+ }
+ .sp4 img{
+   width: 300px;
+   height: 210px;
+   float: left;
+   margin-top: auto;
+   margin-left: 0px;
+   margin-bottom: 20px;
+   max-width: 250px;
+   max-height: 75%;
+ }
+ .sp5{
+ 
+ float: left;
+ text-align: center;
+ margin-top: 70px;
+ width: 250px;
+ height: 250px;
+ margin-left: 50px;
+ }
+ .sp5 img{
+   width: 300px;
+   height: 210px;
+   float: left;
+   margin-top: auto;
+   margin-left: 0px;
+   margin-bottom: 20px;
+   max-width: 250px;
+   max-height: 75%;
+ }
+ .sp6{
+
+ float: left;
+ text-align: center;
+ margin-top: 70px;
+ width: 250px;
+ height: 250px;
+margin-right: 130px;
+ margin-left: 50px;
+ }
+ .sp6 img{
+   width: 300px;
+   height: 210px;
+   float: left;
+   margin-top: auto;
+   margin-left: 0px;
+   margin-bottom: 20px;
+   max-width: 250px;
+   max-height: 75%;
+ }
+ .sp7{
+
+   float: left;
+  text-align: center;
+   margin-top: 70px;
+   width: 250px;
+   height: 250px;
+   margin-left: 130px;
+  }
+ .sp7 img{
+   width: 300px;
+   height: 210px;
+   float: left;
+   margin-top: auto;
+   margin-left: 0px;
+   margin-bottom: 20px;
+   max-width: 250px;
+   max-height: 75%;
+ }
+ .sp8{
+  
+   float: left;
+   text-align: center;
+   margin-top: 70px;
+   width: 250px;
+   height: 250px;
+   margin-left: 50px;
+ }
+  
+ .sp8 img{
+   width: 300px;
+   height: 210px;
+   float: left;
+   margin-top: auto;
+   margin-left: 0px;
+   margin-bottom: 20px;
+   max-width: 250px;
+   max-height: 75%;
+ }
+ .sp9{
+  
+ float: left;
+ text-align: center;
+ margin-top: 70px;
+ width: 250px;
+ height: 250px;
+ margin-right: 130px;
+ margin-left: 50px;
+  }
+ .sp9 img{
+   width: 300px;
+   height: 210px;
+   float: left;
+   margin-top: auto;
+   margin-left: 0px;
+   margin-bottom: 20px;
+   max-width: 250px;
+   max-height: 75%;
+ }
+ .menuDung ul li {
+    list-style: none;
+    
+ }
+ .menuDung ul li a{
+    text-decoration: none;
+    color: white;
+ }
+ .menuDung a:hover{
+    text-decoration: underline white;
+ }
+ .menu ul li {
+    list-style: none;
+    display: inline;
+    padding: 30px;
+ 
+ }
+ .menu ul li a{
+    text-decoration: none;
+    color: white;
+ margin-left: 100px;
+ 
+ }
+ .menu ul li :hover{
+    text-decoration: underline white;
+  
+  
+ }
+ .menu a:hover{
+    text-decoration: underline;
+ }
+ .menu a:visited{
+    
+ }
+ .name a{
+    text-decoration: none;
+    color: rgb(80, 73, 73);
+ }
+ .name a:hover{
+    color: rgb(161, 136, 136);
+ }
+ .price a{
+    text-decoration: none;
+    color: rgb(255, 0, 0);
+ }
+ .price  a:hover{
+    color: rgb(161, 136, 136);
+ }
+
+
+.boxText{
+   margin-left: 20%;
+   height: 10%;
+   color: white;
+   
+   
+}
+.footer{
+
+   width: 100%;
+   float: left;
+   height: 200px;
+   background-color:rgb(104, 92, 92) ;
+}
+.form{
+   margin-left: 50px;
+   
+   width: 30%;
+}
+.form p{
+   color: white;
+}
+.diaChi{
+   
+   margin-left: 50px;
+   width: 60%;
+}
+.diaChi p{
+   color: white;
+}
+.icon img{
+   margin-top: 100px;
+   position: absolute;
+}
+.footer{
+   position: relative;
+}
+.banner1 img{
+   width: 100%;
+}
+.center{
+   text-justify: auto;
+}

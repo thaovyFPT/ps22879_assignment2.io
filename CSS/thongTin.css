@@ -1,0 +1,143 @@
+.boxHeader {
+   
+    margin-bottom: 10px; 
+    clear: left;
+    height: 595px;
+    float: left;
+     
+    text-align: center;
+    width: 100%;
+ }
+ .boxHeader img{
+    width: 100%;
+    clear: left;
+    height: 595px;
+ }
+ 
+ .menu{
+   
+    padding: 0.2em;
+    clear: left;
+    width: 100%;
+    background-color: rgb(104, 92, 92);
+ 
+ }
+ 
+ .menuDung{
+    float:right;
+    height: 1000px;
+    width: 30%;
+    margin-top: 10px;
+  
+    background-color: rgb(104, 92, 92);
+ }
+
+ .center{
+       width: 85%;
+       margin: 0px auto;
+       margin-top: 10px;
+       float: left;
+       
+       margin-bottom: 20px;
+       background-color: rgb(226, 202, 172);
+   }
+   .boxleft{
+      text-align: center;
+   }
+   
+ 
+ .menuDung ul li {
+    list-style: none;
+    
+ }
+ .menuDung ul li a{
+    text-decoration: none;
+    color: white;
+ }
+ .menuDung a:hover{
+    text-decoration: underline white;
+ }
+ .menu ul li {
+    list-style: none;
+    display: inline;
+    padding: 30px;
+ 
+ }
+ .menu ul li a{
+    text-decoration: none;
+    color: white;
+ margin-left: 100px;
+ 
+ }
+ .menu ul li :hover{
+    text-decoration: underline white;
+  
+  
+ }
+ .menu a:hover{
+    text-decoration: underline;
+ }
+ .menu a:visited{
+    
+ }
+ .name a{
+    text-decoration: none;
+    color: rgb(80, 73, 73);
+ }
+ .name a:hover{
+    color: rgb(161, 136, 136);
+ }
+ .price a{
+    text-decoration: none;
+    color: rgb(255, 0, 0);
+ }
+ .price  a:hover{
+    color: rgb(161, 136, 136);
+ }
+
+
+.boxText{
+   margin-left: 20%;
+   height: 10%;
+   color: white;
+   
+   
+}
+.footer{
+
+   width: 100%;
+   float: left;
+   height: 200px;
+   background-color:rgb(104, 92, 92) ;
+}
+.form{
+   margin-left: 50px;
+   
+   width: 30%;
+}
+.form p{
+   color: white;
+}
+.diaChi{
+   
+   margin-left: 50px;
+   width: 60%;
+}
+.diaChi p{
+   color: white;
+}
+.icon img{
+   margin-top: 100px;
+   position: absolute;
+}
+
+.boxcenter{
+  
+}
+.Text {
+   position: absolute;
+   margin-left: 50px;
+}
+body{
+   background-color: rgb(211, 193, 193);
+}
